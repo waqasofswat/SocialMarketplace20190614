@@ -1,0 +1,22 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Mes Affaires";
+/* Bundle name */
+"CFBundleName" = "SocialMarketplace";
+/* Privacy - Calendars Usage Description */
+"NSCalendarsUsageDescription" = "App wants to use Calendar";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "App want to  use camera";
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "App wants to use Description";
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "App want to  use location";
+/* Privacy - Location Usage Description */
+"NSLocationUsageDescription" = "App want to  use location";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "APP USE LOCATION";
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "App want to  use microphone";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "App wants to use Photo";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "App want to  use library";

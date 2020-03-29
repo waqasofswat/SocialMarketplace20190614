@@ -1,0 +1,208 @@
+
+
+
+//key                                      value
+//// homeVC
+"lbl_home"                               = "Accueil";
+"btn_recent"                             = "Récents";
+"btn_popular"                            = "Populaires";
+"btn_followed"                           = "Mes Vendeurs";
+"btn_nearby"                             = "Nearby";
+"topRefresh"                             = "Drag down to reload";
+"refreshControl"                         = "Pull up to load more";
+"loadmore"                               = "No more products";
+
+ //RevealVC
+"lbl_login"                              = "Login";
+"lbl_reveal_home"                        = "Accueil";
+"lbl_reveal_categories"                  = "Category";
+"lbl_reveal_search"                      = "Search";
+"lbl_reveal_news"                        = "News";
+"lbl_reveal_sellers"                     = "Seller";
+"lbl_reveal_recent_chat"                 = "Recent Chat";
+"lbl_reveal_contact_us"                  = "Contact Us";
+"lbl_reveal_about"                       = "In Range";
+"btn_forgot"                             = "Rorgotten Password";
+"btn_teamrs"                             = "Terms and Conditions";
+"btn_prive"                              = "Privacy Policy";
+"btn_Invalid_email"                      = "Invalid Email";
+"mess_k"                                 = "Some fields are missing. Please fill in all required fields!";
+"lbl_nothing"                            = "No Conversations";
+//Categories
+"lbl_categories_all"                     = "All";
+//ListChatVC
+"lbl_top_listchatvc"                     = "Chat List";
+//SearchResultVC
+"lbl_top_search_result"                  = "Search Results";
+//SearchViewController
+"lbl_top_search"                         = "Search";
+"lbl_distance"                           = "Distance";
+"lbl_all"                                = "All";
+"btn_buy"                                = "Buy";
+"btn_rent"                               = "Rent";
+"btn_search"                             = "Search";
+//SubriberViewController
+
+//ChatVc
+"lbl_upload"                             = "Upload Image";
+"lbl_how_to_you"                         = "How do you want to set up your image?";
+"btn_gallery"                            = "Collection";
+"btn_camera"                             = "Camera";
+//commentVC
+"lbl_top_comment"                        = "Comment";
+"lbl_no_more_products"                   = "There are no more products";
+"lbl_please_insert_comment_first"        = "Please insert first comment!";
+//mapvc
+"lbl_map"                                = "Map";
+"lbl_save"                               = "Save";
+"mess_please_select_the_location_first"  = "Please select the first location!";
+//aboutViewController
+"lbl_about"                              = "In Range";
+"lbl_smart_ads"                          = "Smart Ads";
+"mess_about"                             = "Provide iOS, Web Source, and Development Services. \ n High Commitment to Excellent Product Quality and Service.";
+"btn_share_app"                          = "Share Application";
+"btn_rate_app"                           = "App Review";
+//addNewAdsVC
+"lbl_add_new_ads"                        = "Add New Ads ";
+"btn_select"                             = "Select Location From Map";
+"btn_for_buy"                            = "To Buy";
+"btn_for_rent"                           = "Rental";
+"btn_free"                               = "Free";
+"btn_negotiale"                          = "Agreement";
+"btn_custom"                             = "Custom";
+"lbl_available"                          = "Available";
+"btn_add_new_save"                       = "Save";
+
+//changpasswordViewcontroller
+"lbl_change_passsword"                      = "Change Password";
+"btn_change_password"                       = "Change Password";
+"lbl_you_cannot"                            = "You can not change your password when you sign in with Facebook";
+"lbl_mess_password"                         = "Password does not match. Please try again!";
+"lbl_mess_plesae"                           = "Please enter a password!";
+"lbl_mess_plese_insert"                     = "Please enter a password!";
+//contacUS
+"lbl_contact_us"                            = "Contact Us";
+"btn_sumbit"                                = "Send";
+"mess_input_email"                          = "Please enter a name!";
+"mess_imput_subject"                        = "Please enter Email";
+"mess_input_name"                           = "Please enter a name";
+"mess_input_content"                        = "Please enter the message";
+"email_invaild"                             = "The email is invalid!";
+//contactViewcontroller
+"lbl_top_contact"                           = "Contact";
+"btn_send_message"                          = "Send message";
+"btn_contact_call"                          = "Call";
+"btn_contact_report"                        = "Report";
+"mess_cant_call"                            = "This merchant can not be called!";
+"mess_okease_fill"                          = "Please fill in all fields";
+"alert"                                     = "Set your email account first!";
+//detailAdsVC
+"lbl_top_detail"                            = "Detail Screen";
+"btn_like"                                  = "Like ";
+"btn_comments"                              = "Comments";
+"btn_favorites"                             = "Favorites";
+"btn_chat"                                  = "Chat";
+"btn_ads"                                   = "Ads";
+"btn_reposts"                               = "Reposts";
+"btn_please_login"                          = "Please log in to use facebook";
+"lbl_detail"                                = "Details";
+"lbl_member"                                = "Member Joined Since";
+
+"edit_ads"                                  = "Edit The Ads";
+"edit_ads_free"                             = "Free";
+"edit_ads_negotiale"                        = "Negotiable";
+"edit_ads_custom"                           = "Custom";
+"edit_ads_availie"                          = "Available";
+"edit_ads_btn_update"                       = "Update";
+//listnewViewController
+"lbl_new"                                   = "New";
+//loginViewcontroller
+"lbl_logi"                                  = "Login";
+"btn_forgot"                                = "Forgotten Password";
+"btn_login"                                 = "Login";
+"btn_register"                              = "Register";
+"btn_tearms"                                = "Terms And Conditions";
+"btn_priviacy"                              = "Privacy Policy";
+"btn_login_facebook"                        = "Login With Facebook";
+//messageDeTail
+
+
+
+"lbl_message_detail"                        = "Message Details";
+"btn_call"                                  = "Call";
+"btn_email"                                 = "Email";
+"alert_datail"                              = "Eeceive Your Email Account First!";
+// morefieldDrawMenu
+"lbl_favorite"                              = "Favorites";
+//messages
+"lbl_message"                               = "Message";
+"mess_message_list"                         = "Message List";
+"mess_no_data"                              = "No Data";
+//
+//myAccount
+//myadsVC
+"btn_edit"                                  = "Edit";
+"lbl_category"                              = "Category";
+"lbl_type"                                  = "Type :";
+"lbl_location"                              = "Address :";
+"lbl_posted"                                = "Posted :";
+"lbl_status"                                = "Status";
+
+"lbl_my_ads"                                = "My Ads";
+"sort_by_name_asc"                          = "Sort By sc";
+"sort_by_name_desc"                         = "Sort By asc";
+"sor_by_date_asc"                           = "Sort By Date";
+"sor_by_date_desc"                          = "Sort By Date desc";
+"number_of_viewed_acs"                      = "View Count";
+"number_of_viewed_desc"                     = "Views";
+"pull_down_to_reload"                       = "Drag Down To Reload!";
+"pull_up_to_load_more"                      = "Pull Up To Load More!";
+"no_more_products"                          = "No More Products";
+"for_rent"                                  = "For Rent";
+"for_sale"                                  = "For Sale";
+"all_sub_categories"                        = "All Subcategories";
+"all_cities"                                = "All Cities";
+"draft"                                     = "Draft";
+"active"                                    = "Active";
+"expried"                                   = "Expired";
+"inactive"                                  = "Not Active";
+//MYbookMeakVC
+"lbl_my_book_marks"                         = "My Sign";
+//mysub
+"my_subcriptions"                           = "My Subscriptions";
+//register
+"lbl_list_ads"                              = "Ads List";
+//AgentViewController
+"btn_seller"                                = "Seller";
+"btn_follow"                                = "Follow";
+"btn_chat_s"                                = "Chat";
+"btn_menert"                                = "Member Joined Since:";
+"Sort_by_Name_asc"                          = "Sort By Name";
+"Sort_by_Name_desc"                         = "Sort By Name";
+"Register_Date_asc"                         = "Date";
+"Register_Date_desc"                        = "Register Date";
+"Verified_First"                            = "Verified First";
+"UnVerified_First"                          = "UnVerified First";
+"Number_of_Ads_acs"                         = "Number of ads acs";
+"Number_of_Ads_desc"                        = "Number of ads desc";
+"Individual_First"                          = "Individual First";
+"Company_First"                             = "First Company";
+//register
+"btn_glarry"                                = "Collection";
+"btn_camara"                                = "Camera";
+"lbl_messs"                                 = "You Want To Select From";
+"lbl_text"                                  = "Update Photo";
+"lbl_user"                                  = "Full Name";
+"lbl_password"                              = "Password";
+"lbl_retype_passsword"                      = "Retype Password";
+"lbl_fullname"                              = "Full Name";
+"lbl_description"                           = "Description";
+"lbl_phone"                                 = "Phone Number";
+"lbl_address"                               = "Address";
+"lbl_skype"                                 = "Your Skype";
+"lbl_male"                                  = "Male";
+"lbl_frmale"                                = "Female";
+"indiindic"                                 = "Personal";
+"lbl_companys"                              = "Companys";
+"lbl_subject"                               = "Subject";
+"lbl_reason"                                = "Reason";

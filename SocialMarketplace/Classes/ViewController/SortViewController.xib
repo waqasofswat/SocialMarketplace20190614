@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2657" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SortViewController">
+            <connections>
+                <outlet property="constrainTbViewHeight" destination="op5-lM-eib" id="WgK-cx-yd2"/>
+                <outlet property="constraintTbViewTop" destination="tts-HQ-SbX" id="VPY-iO-w0v"/>
+                <outlet property="constraintTbViewTrailling" destination="xiI-c5-eEw" id="vtz-TF-6lo"/>
+                <outlet property="constraintTbViewWidth" destination="U8Y-7c-Lsx" id="UVw-OS-OqC"/>
+                <outlet property="tableView" destination="DVt-qT-Yit" id="d3p-37-dwf"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="DVt-qT-Yit">
+                    <rect key="frame" x="100" y="60" width="212" height="260"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="212" id="U8Y-7c-Lsx"/>
+                        <constraint firstAttribute="height" constant="260" id="op5-lM-eib"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="dnZ-Cc-OZW"/>
+                        <outlet property="delegate" destination="-1" id="P1a-k4-svA"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.43863146551724136" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="DVt-qT-Yit" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="60" id="tts-HQ-SbX"/>
+                <constraint firstAttribute="trailing" secondItem="DVt-qT-Yit" secondAttribute="trailing" constant="8" id="xiI-c5-eEw"/>
+            </constraints>
+            <point key="canvasLocation" x="176" y="332"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,6 @@
+module Pods_SocialMarketplace {
+  umbrella header "Pods-SocialMarketplace-umbrella.h"
+
+  export *
+  module * { export * }
+}

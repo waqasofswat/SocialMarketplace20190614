@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="131" id="KGk-i7-Jjw" customClass="MySubscriptionTableViewCell" customModule="SocialMarketplace">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="131"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="130.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lKr-rZ-kUi">
+                        <rect key="frame" x="15" y="15" width="290" height="115"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="human.png" translatesAutoresizingMaskIntoConstraints="NO" id="wc1-dA-Llt">
+                                <rect key="frame" x="8" y="8" width="97" height="97"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="97" id="HXt-Z4-C7R"/>
+                                    <constraint firstAttribute="width" secondItem="wc1-dA-Llt" secondAttribute="height" multiplier="1:1" id="Wut-Ji-Ke1"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Duration:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WWH-7l-HPz">
+                                <rect key="frame" x="112" y="63" width="60" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="VcA-37-f1e"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ci5-Fi-pia" customClass="CBAutoScrollLabel">
+                                <rect key="frame" x="175" y="63" width="108" height="20"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="UvR-UF-kgg"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZXa-Ng-MQj" customClass="CBAutoScrollLabel">
+                                <rect key="frame" x="188" y="88" width="95" height="20"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="QLv-xV-H2h"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Total spent:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1eh-ne-LXJ">
+                                <rect key="frame" x="112" y="88" width="76" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="Z9N-ub-GpH"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vpc-th-mdx">
+                                <rect key="frame" x="112" y="7" width="171" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="hwZ-OS-efr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1B8-DX-AfS">
+                                <rect key="frame" x="112" y="37" width="171" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="A5j-3f-fWF"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="WWH-7l-HPz" firstAttribute="top" secondItem="1B8-DX-AfS" secondAttribute="bottom" constant="5" id="56M-9o-Okt"/>
+                            <constraint firstItem="vpc-th-mdx" firstAttribute="top" secondItem="lKr-rZ-kUi" secondAttribute="top" constant="7" id="Dq9-ih-qMa"/>
+                            <constraint firstAttribute="trailing" secondItem="1B8-DX-AfS" secondAttribute="trailing" constant="7" id="FOS-ZM-Wqz"/>
+                            <constraint firstItem="Ci5-Fi-pia" firstAttribute="leading" secondItem="WWH-7l-HPz" secondAttribute="trailing" constant="3" id="GmK-bS-Utw"/>
+                            <constraint firstAttribute="trailing" secondItem="vpc-th-mdx" secondAttribute="trailing" constant="7" id="LyY-Vr-phc"/>
+                            <constraint firstItem="ZXa-Ng-MQj" firstAttribute="centerY" secondItem="1eh-ne-LXJ" secondAttribute="centerY" id="Mg4-ey-QLl"/>
+                            <constraint firstItem="1B8-DX-AfS" firstAttribute="leading" secondItem="wc1-dA-Llt" secondAttribute="trailing" constant="7" id="QLg-YJ-0HE"/>
+                            <constraint firstItem="ZXa-Ng-MQj" firstAttribute="leading" secondItem="1eh-ne-LXJ" secondAttribute="trailing" id="Uzd-yV-4CP"/>
+                            <constraint firstItem="vpc-th-mdx" firstAttribute="leading" secondItem="wc1-dA-Llt" secondAttribute="trailing" constant="7" id="VMr-cb-y51"/>
+                            <constraint firstItem="WWH-7l-HPz" firstAttribute="leading" secondItem="wc1-dA-Llt" secondAttribute="trailing" constant="7" id="aJC-4D-utw"/>
+                            <constraint firstItem="wc1-dA-Llt" firstAttribute="top" secondItem="lKr-rZ-kUi" secondAttribute="top" constant="8" id="cON-9r-rBT"/>
+                            <constraint firstAttribute="trailing" secondItem="ZXa-Ng-MQj" secondAttribute="trailing" constant="7" id="dMZ-lV-7Ly"/>
+                            <constraint firstItem="Ci5-Fi-pia" firstAttribute="centerY" secondItem="WWH-7l-HPz" secondAttribute="centerY" id="eBe-Wr-RQV"/>
+                            <constraint firstItem="1eh-ne-LXJ" firstAttribute="leading" secondItem="wc1-dA-Llt" secondAttribute="trailing" constant="7" id="eEB-R8-7Pr"/>
+                            <constraint firstAttribute="trailing" secondItem="Ci5-Fi-pia" secondAttribute="trailing" constant="7" id="epv-tL-hlJ"/>
+                            <constraint firstItem="ZXa-Ng-MQj" firstAttribute="top" secondItem="Ci5-Fi-pia" secondAttribute="bottom" constant="5" id="m8L-Wf-zyg"/>
+                            <constraint firstAttribute="bottom" secondItem="ZXa-Ng-MQj" secondAttribute="bottom" constant="7" id="vIL-Np-5fA"/>
+                            <constraint firstItem="wc1-dA-Llt" firstAttribute="leading" secondItem="lKr-rZ-kUi" secondAttribute="leading" constant="8" id="ybN-C8-GQH"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="lKr-rZ-kUi" secondAttribute="trailing" constant="15" id="2SB-i6-3GX"/>
+                    <constraint firstItem="lKr-rZ-kUi" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="SDE-Fa-Duk"/>
+                    <constraint firstAttribute="bottom" secondItem="lKr-rZ-kUi" secondAttribute="bottom" id="UqA-CE-Haw"/>
+                    <constraint firstItem="lKr-rZ-kUi" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="15" id="pDP-IU-x5r"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="ViewCell" destination="lKr-rZ-kUi" id="lz6-Kv-fng"/>
+                <outlet property="descriptionScrollLabel" destination="vpc-th-mdx" id="J1C-7J-rjV"/>
+                <outlet property="fromScrollLabel" destination="1B8-DX-AfS" id="DyR-LY-fdu"/>
+                <outlet property="imgCell" destination="wc1-dA-Llt" id="j5j-a4-y7X"/>
+                <outlet property="reachScrollLabel" destination="Ci5-Fi-pia" id="uRR-nz-h2X"/>
+                <outlet property="spentScrollLabel" destination="ZXa-Ng-MQj" id="Y31-bE-wF9"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="human.png" width="265" height="265"/>
+    </resources>
+</document>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15510"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ListChatViewController">
+            <connections>
+                <outlet property="btnMenu" destination="TnQ-33-Pc3" id="wWu-Dj-Sie"/>
+                <outlet property="constrainNaviHeight" destination="ahr-70-3IM" id="icK-vR-9gB"/>
+                <outlet property="constrainPaddingTop" destination="ztt-ay-Sys" id="pIV-1q-mUX"/>
+                <outlet property="lblTitle" destination="3NY-9d-Ib1" id="wDU-Dx-L0O"/>
+                <outlet property="tableView" destination="Ny0-m6-lwO" id="nOs-Li-PrY"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Lfy-8j-925">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t5x-9a-up9">
+                            <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TnQ-33-Pc3">
+                                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="44" id="id6-Ic-Oei"/>
+                                        <constraint firstAttribute="width" constant="44" id="zk8-wW-zat"/>
+                                    </constraints>
+                                    <state key="normal" image="ic_menu.png"/>
+                                    <connections>
+                                        <action selector="onMenu:" destination="-1" eventType="touchUpInside" id="prh-e4-Py6"/>
+                                    </connections>
+                                </button>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="List Chat" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3NY-9d-Ib1">
+                                    <rect key="frame" x="146" y="10" width="83" height="24"/>
+                                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
+                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="3NY-9d-Ib1" firstAttribute="centerY" secondItem="t5x-9a-up9" secondAttribute="centerY" id="7SE-xa-KQ8"/>
+                                <constraint firstItem="TnQ-33-Pc3" firstAttribute="leading" secondItem="t5x-9a-up9" secondAttribute="leading" id="MRl-sA-kcw"/>
+                                <constraint firstItem="TnQ-33-Pc3" firstAttribute="centerY" secondItem="t5x-9a-up9" secondAttribute="centerY" id="n54-VY-A0w"/>
+                                <constraint firstItem="3NY-9d-Ib1" firstAttribute="centerX" secondItem="t5x-9a-up9" secondAttribute="centerX" id="nS1-ux-PKp"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="t5x-9a-up9" secondAttribute="trailing" id="844-u4-po7"/>
+                        <constraint firstAttribute="bottom" secondItem="t5x-9a-up9" secondAttribute="bottom" id="aOE-cK-vIb"/>
+                        <constraint firstAttribute="height" constant="64" id="ahr-70-3IM"/>
+                        <constraint firstItem="t5x-9a-up9" firstAttribute="leading" secondItem="Lfy-8j-925" secondAttribute="leading" id="awo-1N-vXW"/>
+                        <constraint firstItem="t5x-9a-up9" firstAttribute="top" secondItem="Lfy-8j-925" secondAttribute="top" constant="20" id="ztt-ay-Sys"/>
+                    </constraints>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Ny0-m6-lwO">
+                    <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Ny0-m6-lwO" secondAttribute="trailing" id="2x0-ZT-Lax"/>
+                <constraint firstItem="Ny0-m6-lwO" firstAttribute="top" secondItem="Lfy-8j-925" secondAttribute="bottom" id="4V2-6X-u3F"/>
+                <constraint firstItem="Lfy-8j-925" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="M2w-m0-N0t"/>
+                <constraint firstItem="Lfy-8j-925" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="cgd-ea-l7Y"/>
+                <constraint firstAttribute="bottom" secondItem="Ny0-m6-lwO" secondAttribute="bottom" id="f3N-9n-wb9"/>
+                <constraint firstItem="Ny0-m6-lwO" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="ffF-Ni-MVK"/>
+                <constraint firstAttribute="trailing" secondItem="Lfy-8j-925" secondAttribute="trailing" id="kjH-el-ztk"/>
+            </constraints>
+            <point key="canvasLocation" x="53.600000000000001" y="111.99400299850076"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_menu.png" width="88" height="88"/>
+    </resources>
+</document>

@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SocialMarketplace/Base.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="  &lt;  " xml:space="preserve">
+        <source>  &lt;  </source>
+        <target>  &lt;  </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="  &gt;  " xml:space="preserve">
+        <source>  &gt;  </source>
+        <target>  &gt;  </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target>All</target>
+        <note>All option title</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>Done</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last Updated: %@" xml:space="preserve">
+        <source>Last Updated: %@</source>
+        <target>Last Updated: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <target>Loading...</target>
+        <note>Loading Status</note>
+      </trans-unit>
+      <trans-unit id="Never" xml:space="preserve">
+        <source>Never</source>
+        <target>Never</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pull down to refresh..." xml:space="preserve">
+        <source>Pull down to refresh...</source>
+        <target>Pull down to refresh...</target>
+        <note>Pull down to refresh status</note>
+      </trans-unit>
+      <trans-unit id="Pull to refresh..." xml:space="preserve">
+        <source>Pull to refresh...</source>
+        <target>Pull to refresh...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pull up to load more..." xml:space="preserve">
+        <source>Pull up to load more...</source>
+        <target>Pull up to load more...</target>
+        <note>Pull down to load more status</note>
+      </trans-unit>
+      <trans-unit id="Release to load more..." xml:space="preserve">
+        <source>Release to load more...</source>
+        <target>Release to load more...</target>
+        <note>Release to load more status</note>
+      </trans-unit>
+      <trans-unit id="Release to refresh..." xml:space="preserve">
+        <source>Release to refresh...</source>
+        <target>Release to refresh...</target>
+        <note>Release to refresh status</note>
+      </trans-unit>
+      <trans-unit id="View details" xml:space="preserve">
+        <source>View details</source>
+        <target>View details</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SocialMarketplace/en.lproj/AFNetworking.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="Expected URL to be a file URL" xml:space="preserve">
+        <source>Expected URL to be a file URL</source>
+        <target>Expected URL to be a file URL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File URL not reachable." xml:space="preserve">
+        <source>File URL not reachable.</source>
+        <target>File URL not reachable.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Reachable" xml:space="preserve">
+        <source>Not Reachable</source>
+        <target>Not Reachable</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reachable via WWAN" xml:space="preserve">
+        <source>Reachable via WWAN</source>
+        <target>Reachable via WWAN</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reachable via WiFi" xml:space="preserve">
+        <source>Reachable via WiFi</source>
+        <target>Reachable via WiFi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request failed: %@ (%ld)" xml:space="preserve">
+        <source>Request failed: %1$@ (%2$ld)</source>
+        <target>Request failed: %1$@ (%2$ld)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request failed: unacceptable content-type: %@" xml:space="preserve">
+        <source>Request failed: unacceptable content-type: %@</source>
+        <target>Request failed: unacceptable content-type: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Unknown</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SocialMarketplace/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Mes Affaires</source>
+        <target>Mes Affaires</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SocialMarketplace</source>
+        <target>SocialMarketplace</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
+        <source>App wants to use Calendar</source>
+        <target>App wants to use Calendar</target>
+        <note>Privacy - Calendars Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>App want to  use camera</source>
+        <target>App want to  use camera</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
+        <source>App wants to use Description</source>
+        <target>App wants to use Description</target>
+        <note>Privacy - Location Always and When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription" xml:space="preserve">
+        <source>App want to  use location</source>
+        <target>App want to  use location</target>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationUsageDescription" xml:space="preserve">
+        <source>App want to  use location</source>
+        <target>App want to  use location</target>
+        <note>Privacy - Location Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>APP USE LOCATION</source>
+        <target>APP USE LOCATION</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
+        <source>App want to  use microphone</source>
+        <target>App want to  use microphone</target>
+        <note>Privacy - Microphone Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source>App wants to use Photo</source>
+        <target>App wants to use Photo</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>App want to  use library</source>
+        <target>App want to  use library</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SocialMarketplace/SmartAds/Base.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="ab_btn_rate_app" xml:space="preserve">
+        <source>Rate App</source>
+        <target>Rate App</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ab_btn_share_app" xml:space="preserve">
+        <source>Share Application</source>
+        <target>Share Application</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ab_text_about2" xml:space="preserve">
+        <source>Provide iOS, Web Source, and Development Services.  n High Commitment to Excellent Product Quality and Service.</source>
+        <target>Provide iOS, Web Source, and Development Services.  n High Commitment to Excellent Product Quality and Service.</target>
+        <note>ABOUTVC</note>
+      </trans-unit>
+      <trans-unit id="ac_text_all_ads" xml:space="preserve">
+        <source>All Ads</source>
+        <target>All Ads</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ac_title" xml:space="preserve">
+        <source>Categories</source>
+        <target>Categories</target>
+        <note>AllCategoryVC</note>
+      </trans-unit>
+      <trans-unit id="ae_btn_delete_upcap" xml:space="preserve">
+        <source>DELETE</source>
+        <target>DELETE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="btn_cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="btn_no" xml:space="preserve">
+        <source>No</source>
+        <target>No</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="btn_ok" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>BUTTON ALL PROJECT</note>
+      </trans-unit>
+      <trans-unit id="btn_send" xml:space="preserve">
+        <source>SEND</source>
+        <target>SEND</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="btn_setting" xml:space="preserve">
+        <source>Setting</source>
+        <target>Setting</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="btn_yes" xml:space="preserve">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ch_title" xml:space="preserve">
+        <source>Message</source>
+        <target>Message</target>
+        <note>ChatVC</note>
+      </trans-unit>
+      <trans-unit id="cp_btn_change_pass" xml:space="preserve">
+        <source>CHANGE PASSWORD</source>
+        <target>CHANGE PASSWORD</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cp_msg_fill_new_pass" xml:space="preserve">
+        <source>Please enter a new password!</source>
+        <target>Please enter a new password!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cp_msg_fill_pass" xml:space="preserve">
+        <source>Please enter a password!</source>
+        <target>Please enter a password!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cp_msg_pass_fb" xml:space="preserve">
+        <source>You can not change your password when you sign in with Facebook</source>
+        <target>You can not change your password when you sign in with Facebook</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cp_msg_pass_notmatch" xml:space="preserve">
+        <source>Password does not match. Please try again!</source>
+        <target>Password does not match. Please try again!</target>
+        <note>changepassword vc</note>
+      </trans-unit>
+      <trans-unit id="cp_tf_confirm_pass" xml:space="preserve">
+        <source>Confirm Password</source>
+        <target>Confirm Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cp_tf_current_pass" xml:space="preserve">
+        <source>Current Password</source>
+        <target>Current Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cp_tf_new_pass" xml:space="preserve">
+        <source>New Password</source>
+        <target>New Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cu_text_contact_us" xml:space="preserve">
+        <source>Contact us</source>
+        <target>Contact us</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cu_text_report" xml:space="preserve">
+        <source>Report</source>
+        <target>Report</target>
+        <note>Contact Us vc</note>
+      </trans-unit>
+      <trans-unit id="cu_tf_email" xml:space="preserve">
+        <source>Email</source>
+        <target>Email</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cu_tf_fullname" xml:space="preserve">
+        <source>Full Name</source>
+        <target>Full Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cu_tf_reason" xml:space="preserve">
+        <source>Reason</source>
+        <target>Reason</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cu_tf_subject" xml:space="preserve">
+        <source>Subject</source>
+        <target>Subject</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dm_btn_call" xml:space="preserve">
+        <source>CALL</source>
+        <target>CALL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dm_btn_email" xml:space="preserve">
+        <source>EMAIL</source>
+        <target>EMAIL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dm_lbl_title" xml:space="preserve">
+        <source>Message Details</source>
+        <target>Message Details</target>
+        <note>detailmessageVC</note>
+      </trans-unit>
+      <trans-unit id="dt_btn_ads" xml:space="preserve">
+        <source>Ads</source>
+        <target>Ads</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_chat" xml:space="preserve">
+        <source>Chat</source>
+        <target>Chat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_comment" xml:space="preserve">
+        <source>Comment</source>
+        <target>Comment</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_comments" xml:space="preserve">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_favorite" xml:space="preserve">
+        <source>Favorite</source>
+        <target>Favorite</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_like" xml:space="preserve">
+        <source>Like</source>
+        <target>Like</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_likes" xml:space="preserve">
+        <source>Likes</source>
+        <target>Likes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_btn_report" xml:space="preserve">
+        <source>REPORT</source>
+        <target>REPORT</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_lbl_address" xml:space="preserve">
+        <source>Address:</source>
+        <target>Address:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_lbl_detail" xml:space="preserve">
+        <source>Details</source>
+        <target>Details</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_lbl_menber_joined" xml:space="preserve">
+        <source>Member Joined Since</source>
+        <target>Member Joined Since</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_lbl_poster" xml:space="preserve">
+        <source>Poster:</source>
+        <target>Poster:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_lbl_type" xml:space="preserve">
+        <source>Type:</source>
+        <target>Type:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_text_ads" xml:space="preserve">
+        <source>Ads</source>
+        <target>Ads</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_text_name" xml:space="preserve">
+        <source>name</source>
+        <target>name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dt_title" xml:space="preserve">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Detail ADs VC</note>
+      </trans-unit>
+      <trans-unit id="dt_txt_seller_id" xml:space="preserve">
+        <source>Seller ID</source>
+        <target>Seller ID</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_btn_delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_btn_subcription" xml:space="preserve">
+        <source>SUBCRIPTION</source>
+        <target>SUBCRIPTION</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_btn_update" xml:space="preserve">
+        <source>UPDATE</source>
+        <target>UPDATE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_msg_add_success" xml:space="preserve">
+        <source>Edit Ads success!</source>
+        <target>Edit Ads success!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_msg_delete_ad" xml:space="preserve">
+        <source>Do you want to delete this ad?</source>
+        <target>Do you want to delete this ad?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_msg_delete_success" xml:space="preserve">
+        <source>Delete ads successful</source>
+        <target>Delete ads successful</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ea_msg_subcription_draft" xml:space="preserve">
+        <source>You cannot subscription for draft property!</source>
+        <target>You cannot subscription for draft property!</target>
+        <note>EditADSVC</note>
+      </trans-unit>
+      <trans-unit id="ea_text_delete_ad" xml:space="preserve">
+        <source>Delete ad</source>
+        <target>Delete ad</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ho_btn_followed" xml:space="preserve">
+        <source>Followed</source>
+        <target>Followed</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ho_btn_nearby" xml:space="preserve">
+        <source>Nearby</source>
+        <target>Nearby</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ho_btn_popular" xml:space="preserve">
+        <source>Popular</source>
+        <target>Popular</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ho_btn_recent" xml:space="preserve">
+        <source>Recent</source>
+        <target>Recent</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ho_title" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>HomeVC</note>
+      </trans-unit>
+      <trans-unit id="im_btn_done" xml:space="preserve">
+        <source>Done</source>
+        <target>Done</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="im_btn_save" xml:space="preserve">
+        <source>SAVE</source>
+        <target>SAVE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="im_msg_save_image" xml:space="preserve">
+        <source>Saved image in Photos</source>
+        <target>Saved image in Photos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="im_title" xml:space="preserve">
+        <source>Image</source>
+        <target>Image</target>
+        <note>ImageVC</note>
+      </trans-unit>
+      <trans-unit id="lg_btn_forgot" xml:space="preserve">
+        <source>Forgot password</source>
+        <target>Forgot password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_btn_login" xml:space="preserve">
+        <source>LOGIN</source>
+        <target>LOGIN</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_btn_ok_forgot" xml:space="preserve">
+        <source>SEND</source>
+        <target>SEND</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_btn_privacy_policy" xml:space="preserve">
+        <source>Privacy policy</source>
+        <target>Privacy policy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_btn_register" xml:space="preserve">
+        <source>REGISTER</source>
+        <target>REGISTER</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_btn_tearm" xml:space="preserve">
+        <source>Tearms &amp; Conditions</source>
+        <target>Tearms &amp; Conditions</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_lbl_forgot_password" xml:space="preserve">
+        <source>Forgot password</source>
+        <target>Forgot password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_tf_email_forgot" xml:space="preserve">
+        <source>Email</source>
+        <target>Email</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_tf_password" xml:space="preserve">
+        <source>Password</source>
+        <target>Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_tf_username" xml:space="preserve">
+        <source>User Name</source>
+        <target>User Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lg_title_login" xml:space="preserve">
+        <source>Login</source>
+        <target>Login</target>
+        <note>LoginVC</note>
+      </trans-unit>
+      <trans-unit id="ma_btn_update" xml:space="preserve">
+        <source>UPDATE</source>
+        <target>UPDATE</target>
+        <note>MyAccountVC</note>
+      </trans-unit>
+      <trans-unit id="ms_text_days" xml:space="preserve">
+        <source>Days</source>
+        <target>Days</target>
+        <note>SUBCIPTIONVC</note>
+      </trans-unit>
+      <trans-unit id="msg_delete_pictures" xml:space="preserve">
+        <source>Select OK to remove this picture</source>
+        <target>Select OK to remove this picture</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_forgot_success" xml:space="preserve">
+        <source>Forgot Password Successfull</source>
+        <target>Forgot Password Successfull</target>
+        <note>MSG ALL PROJECT</note>
+      </trans-unit>
+      <trans-unit id="msg_input_content" xml:space="preserve">
+        <source>Please enter a content</source>
+        <target>Please enter a content</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_input_email" xml:space="preserve">
+        <source>Please enter a email</source>
+        <target>Please enter a email</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_input_name" xml:space="preserve">
+        <source>Please enter a name</source>
+        <target>Please enter a name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_input_subject" xml:space="preserve">
+        <source>Please enter a subject</source>
+        <target>Please enter a subject</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_invalid" xml:space="preserve">
+        <source>Invalid Email</source>
+        <target>Invalid Email</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_loadmore" xml:space="preserve">
+        <source>No more products</source>
+        <target>No more products</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_location_not_determiner" xml:space="preserve">
+        <source>The app require location permission to continue!</source>
+        <target>The app require location permission to continue!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_login_to_use" xml:space="preserve">
+        <source>Please login to use this function!</source>
+        <target>Please login to use this function!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_no_more_seller" xml:space="preserve">
+        <source>No more seller</source>
+        <target>No more seller</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_not_found" xml:space="preserve">
+        <source>Not found</source>
+        <target>Not found</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_pass_not_match" xml:space="preserve">
+        <source>password not match. Please try again!</source>
+        <target>password not match. Please try again!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_select_category_first" xml:space="preserve">
+        <source>Please select Category first!</source>
+        <target>Please select Category first!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_some_field_mising" xml:space="preserve">
+        <source>Some fields are missing. Please fill in all required fields!</source>
+        <target>Some fields are missing. Please fill in all required fields!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_success" xml:space="preserve">
+        <source>Successful!</source>
+        <target>Successful!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="msg_try_again" xml:space="preserve">
+        <source>Please try again later!</source>
+        <target>Please try again later!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_btn_for_buy" xml:space="preserve">
+        <source>FOR BUY</source>
+        <target>FOR BUY</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_btn_for_rent" xml:space="preserve">
+        <source>FOR RENT</source>
+        <target>FOR RENT</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_btn_save" xml:space="preserve">
+        <source>SAVE</source>
+        <target>SAVE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_btn_select_location" xml:space="preserve">
+        <source>SELECT LOCATION FROM MAP</source>
+        <target>SELECT LOCATION FROM MAP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_lbl_available" xml:space="preserve">
+        <source>Abailable</source>
+        <target>Abailable</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_lbl_custom" xml:space="preserve">
+        <source>Custom</source>
+        <target>Custom</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_lbl_free" xml:space="preserve">
+        <source>Free</source>
+        <target>Free</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_lbl_negotiale" xml:space="preserve">
+        <source>Negotiale</source>
+        <target>Negotiale</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_add_success" xml:space="preserve">
+        <source>Add Ads success!</source>
+        <target>Add Ads success!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_fill_des" xml:space="preserve">
+        <source>Please fill description!</source>
+        <target>Please fill description!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_fill_title_ads" xml:space="preserve">
+        <source>Please fill title of ads!</source>
+        <target>Please fill title of ads!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_fill_unit" xml:space="preserve">
+        <source>Please fill value and unit</source>
+        <target>Please fill value and unit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_select_category" xml:space="preserve">
+        <source>Please select category</source>
+        <target>Please select category</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_select_city" xml:space="preserve">
+        <source>Please select city</source>
+        <target>Please select city</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_select_gallery" xml:space="preserve">
+        <source>Please select gallery!</source>
+        <target>Please select gallery!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_select_image" xml:space="preserve">
+        <source>Please select image!</source>
+        <target>Please select image!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_msg_select_sub_category" xml:space="preserve">
+        <source>Please select sub category</source>
+        <target>Please select sub category</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_tf_description" xml:space="preserve">
+        <source>Description</source>
+        <target>Description</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_tf_lat" xml:space="preserve">
+        <source>Latitude</source>
+        <target>Latitude</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_tf_long" xml:space="preserve">
+        <source>Longtitude</source>
+        <target>Longtitude</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_tf_price" xml:space="preserve">
+        <source>Value</source>
+        <target>Value</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="na_tf_title_ads" xml:space="preserve">
+        <source>Title Ads</source>
+        <target>Title Ads</target>
+        <note>add NEW ADS VC</note>
+      </trans-unit>
+      <trans-unit id="na_tf_unit" xml:space="preserve">
+        <source>Unit</source>
+        <target>Unit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ne_lbl_poster" xml:space="preserve">
+        <source>Poster:</source>
+        <target>Poster:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ne_lbl_title" xml:space="preserve">
+        <source>News</source>
+        <target>News</target>
+        <note>NEWVC</note>
+      </trans-unit>
+      <trans-unit id="ne_tf_search" xml:space="preserve">
+        <source>Search</source>
+        <target>Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_btn_camera" xml:space="preserve">
+        <source>CAMERA</source>
+        <target>CAMERA</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_btn_gallery" xml:space="preserve">
+        <source>GALLERY</source>
+        <target>GALLERY</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_btn_register" xml:space="preserve">
+        <source>REGISTER</source>
+        <target>REGISTER</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_lbl_message_upload" xml:space="preserve">
+        <source>How do you want to set your picture?</source>
+        <target>How do you want to set your picture?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_lbl_upload_pictures" xml:space="preserve">
+        <source>Upload Pictures Option</source>
+        <target>Upload Pictures Option</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_rf_skype" xml:space="preserve">
+        <source>Skype</source>
+        <target>Skype</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_sm_company" xml:space="preserve">
+        <source>Company</source>
+        <target>Company</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_sm_female" xml:space="preserve">
+        <source>Female</source>
+        <target>Female</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_sm_male" xml:space="preserve">
+        <source>Male</source>
+        <target>Male</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_sm_personal" xml:space="preserve">
+        <source>Individual</source>
+        <target>Individual</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_address" xml:space="preserve">
+        <source>Address</source>
+        <target>Address</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_description" xml:space="preserve">
+        <source>Description</source>
+        <target>Description</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_email" xml:space="preserve">
+        <source>Email</source>
+        <target>Email</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_fullname" xml:space="preserve">
+        <source>Full Name</source>
+        <target>Full Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_password" xml:space="preserve">
+        <source>Password</source>
+        <target>Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_phone" xml:space="preserve">
+        <source>Phone</source>
+        <target>Phone</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_retype_password" xml:space="preserve">
+        <source>Retype Password</source>
+        <target>Retype Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_tf_username" xml:space="preserve">
+        <source>User Name</source>
+        <target>User Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rg_title_register" xml:space="preserve">
+        <source>Register</source>
+        <target>Register</target>
+        <note>Register VC</note>
+      </trans-unit>
+      <trans-unit id="rs_title" xml:space="preserve">
+        <source>Results</source>
+        <target>Results</target>
+        <note>resultvc</note>
+      </trans-unit>
+      <trans-unit id="rv_lbl_login" xml:space="preserve">
+        <source>Login</source>
+        <target>Login</target>
+        <note>reval vc</note>
+      </trans-unit>
+      <trans-unit id="rv_menu_about" xml:space="preserve">
+        <source>About</source>
+        <target>About</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_category" xml:space="preserve">
+        <source>Category</source>
+        <target>Category</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_change_password" xml:space="preserve">
+        <source>Change Password</source>
+        <target>Change Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_contact_us" xml:space="preserve">
+        <source>Contact Us</source>
+        <target>Contact Us</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_favorite" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_home" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_logout" xml:space="preserve">
+        <source>Log Out</source>
+        <target>Log Out</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_my_account" xml:space="preserve">
+        <source>My Account</source>
+        <target>My Account</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_my_ads" xml:space="preserve">
+        <source>My Ads</source>
+        <target>My Ads</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_my_message" xml:space="preserve">
+        <source>My Messages</source>
+        <target>My Messages</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_mysubcription" xml:space="preserve">
+        <source>My Subscriptions</source>
+        <target>My Subscriptions</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_new_ad" xml:space="preserve">
+        <source>New Ad</source>
+        <target>New Ad</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_news" xml:space="preserve">
+        <source>News</source>
+        <target>News</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_recent_chat" xml:space="preserve">
+        <source>Recent Chat</source>
+        <target>Recent Chat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_search" xml:space="preserve">
+        <source>Search</source>
+        <target>Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_menu_sellers" xml:space="preserve">
+        <source>Sellers</source>
+        <target>Sellers</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_msg_logout" xml:space="preserve">
+        <source>Do you want to logout?</source>
+        <target>Do you want to logout?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rv_title_logout" xml:space="preserve">
+        <source>Logout App</source>
+        <target>Logout App</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sc_no_subcategories" xml:space="preserve">
+        <source>No SubCategories</source>
+        <target>No SubCategories</target>
+        <note>SubCategoryVC</note>
+      </trans-unit>
+      <trans-unit id="se_btn_buy" xml:space="preserve">
+        <source>Buy</source>
+        <target>Buy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_btn_cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_btn_rent" xml:space="preserve">
+        <source>Rent</source>
+        <target>Rent</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_btn_search" xml:space="preserve">
+        <source>Search</source>
+        <target>Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_btn_set" xml:space="preserve">
+        <source>Set</source>
+        <target>Set</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_lbl_all" xml:space="preserve">
+        <source>All</source>
+        <target>All</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_lbl_distance" xml:space="preserve">
+        <source>Distance</source>
+        <target>Distance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_lbl_type" xml:space="preserve">
+        <source>All Type</source>
+        <target>All Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_text_after" xml:space="preserve">
+        <source>After</source>
+        <target>After</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_text_before" xml:space="preserve">
+        <source>Before</source>
+        <target>Before</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_text_company" xml:space="preserve">
+        <source>Company</source>
+        <target>Company</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_text_individual" xml:space="preserve">
+        <source>Individual</source>
+        <target>Individual</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_tf_search" xml:space="preserve">
+        <source>Search</source>
+        <target>Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="se_title" xml:space="preserve">
+        <source>Search</source>
+        <target>Search</target>
+        <note>searchVC</note>
+      </trans-unit>
+      <trans-unit id="sl_btn_chat" xml:space="preserve">
+        <source>CHAT</source>
+        <target>CHAT</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_btn_follow" xml:space="preserve">
+        <source>Followed</source>
+        <target>Followed</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_btn_follow_cell" xml:space="preserve">
+        <source>FOLLOW</source>
+        <target>FOLLOW</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_btn_followed_cell" xml:space="preserve">
+        <source>FOLLOWED</source>
+        <target>FOLLOWED</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_btn_seller" xml:space="preserve">
+        <source>Seller</source>
+        <target>Seller</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_lbl_menber_since" xml:space="preserve">
+        <source>Member Since</source>
+        <target>Member Since</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_text_no_seller" xml:space="preserve">
+        <source>No Seller</source>
+        <target>No Seller</target>
+        <note>SellerVC</note>
+      </trans-unit>
+      <trans-unit id="sl_text_profile" xml:space="preserve">
+        <source>Profile</source>
+        <target>Profile</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sl_tf_search" xml:space="preserve">
+        <source>Search</source>
+        <target>Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_company_first" xml:space="preserve">
+        <source>Company First</source>
+        <target>Company First</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_date_asc" xml:space="preserve">
+        <source>Sort by Date ASC</source>
+        <target>Sort by Date ASC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_date_desc" xml:space="preserve">
+        <source>Sort by Date DESC</source>
+        <target>Sort by Date DESC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_individual_first" xml:space="preserve">
+        <source>Individual First</source>
+        <target>Individual First</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_name_asc" xml:space="preserve">
+        <source>Sort by Name ASC</source>
+        <target>Sort by Name ASC</target>
+        <note>DEFINE ALL PROJECT</note>
+      </trans-unit>
+      <trans-unit id="sort_by_name_desc" xml:space="preserve">
+        <source>Sort by Name DESC</source>
+        <target>Sort by Name DESC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_number_asc" xml:space="preserve">
+        <source>Sort by Number Ads ASC</source>
+        <target>Sort by Number Ads ASC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_number_desc" xml:space="preserve">
+        <source>Sort by Number Ads DESS</source>
+        <target>Sort by Number Ads DESS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_un_verified_first" xml:space="preserve">
+        <source>UnVerified First</source>
+        <target>UnVerified First</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_verified_first" xml:space="preserve">
+        <source>Verified First</source>
+        <target>Verified First</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_view_asc" xml:space="preserve">
+        <source>Sort by View ASC</source>
+        <target>Sort by View ASC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sort_by_view_desc" xml:space="preserve">
+        <source>Sort by View DESS</source>
+        <target>Sort by View DESS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="table_bot_loadmore" xml:space="preserve">
+        <source>Pull up to load more</source>
+        <target>Pull up to load more</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="table_top_refresh" xml:space="preserve">
+        <source>Drag down to refresh</source>
+        <target>Drag down to refresh</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_active" xml:space="preserve">
+        <source>Active</source>
+        <target>Active</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_all_category" xml:space="preserve">
+        <source>All Categories</source>
+        <target>All Categories</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_all_cities" xml:space="preserve">
+        <source>All Cities</source>
+        <target>All Cities</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_all_sub_category" xml:space="preserve">
+        <source>All SubCategories</source>
+        <target>All SubCategories</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_company" xml:space="preserve">
+        <source>Company</source>
+        <target>Company</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_delete_pictures" xml:space="preserve">
+        <source>Do you want to delete this picture</source>
+        <target>Do you want to delete this picture</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_draft" xml:space="preserve">
+        <source>Draft</source>
+        <target>Draft</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_expried" xml:space="preserve">
+        <source>Expried</source>
+        <target>Expried</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_for_rent" xml:space="preserve">
+        <source>For rent</source>
+        <target>For rent</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_for_sale" xml:space="preserve">
+        <source>For sale</source>
+        <target>For sale</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_free" xml:space="preserve">
+        <source>Free</source>
+        <target>Free</target>
+        <note>Text all project</note>
+      </trans-unit>
+      <trans-unit id="text_inactive" xml:space="preserve">
+        <source>Inactive</source>
+        <target>Inactive</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_individual" xml:space="preserve">
+        <source>Individual</source>
+        <target>Individual</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_negotiate" xml:space="preserve">
+        <source>Negotiate</source>
+        <target>Negotiate</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_no_available_category" xml:space="preserve">
+        <source>No available category</source>
+        <target>No available category</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_rented" xml:space="preserve">
+        <source>RENTED</source>
+        <target>RENTED</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="text_sold" xml:space="preserve">
+        <source>SOLD</source>
+        <target>SOLD</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

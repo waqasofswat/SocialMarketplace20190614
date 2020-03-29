@@ -1,0 +1,262 @@
+
+
+//MSG ALL PROJECT
+"msg_forgot_success"            =       "Forgot Password Successfull";
+"msg_some_field_mising"         =       "Some fields are missing. Please fill in all required fields!";
+"msg_invalid"                   =       "Invalid Email";
+"msg_pass_not_match"            =       "password not match. Please try again!";
+"msg_loadmore"                  =       "No more products";
+"msg_login_to_use"              =       "Veuillez vous connecter";
+"msg_location_not_determiner"   =       "The app require location permission to continue!";
+"msg_try_again"                 =       "Please try again later!";
+"msg_select_category_first"     =       "Please select Category first!";
+"msg_not_found"                 =       "Not found";
+"msg_success"                   =       "Successful!";
+"msg_no_more_seller"            =       "No more seller";
+"msg_input_name"                =       "Please enter a name";
+"msg_input_email"               =       "Please enter a email";
+"msg_input_subject"             =       "Please enter a subject";
+"msg_input_content"             =       "Please enter a content";
+"msg_delete_pictures"           =       "Select OK to remove this picture";
+
+
+//BUTTON ALL PROJECT
+"btn_ok"                        =       "OK";
+"btn_yes"                       =       "Yes";
+"btn_no"                        =       "No";
+"btn_cancel"                    =       "Cancel";
+"btn_setting"                   =       "Setting";
+"btn_send"                      =       "SEND";
+
+//Text all project
+
+"text_free"                     =       "Free";
+"text_negotiate"                =       "Negotiate";
+"text_rented"                   =       "RENTED";
+"text_sold"                     =       "SOLD";
+"text_all_category"             =       "Toutes les catégories";
+"text_all_sub_category"         =       "Tout SubCategories";
+"text_all_cities"               =       "Toutes les Villes";
+"text_for_sale"                 =       "For sale";
+"text_for_rent"                 =       "For rent";
+"text_individual"               =       "Individual";
+"text_company"                  =       "Company";
+"text_no_available_category"    =       "No available category";
+"text_delete_pictures"          =       "Do you want to delete this picture";
+"text_draft"                    =       "Draft";
+"text_active"                   =       "Active";
+"text_expried"                  =       "Expried";
+"text_inactive"                 =       "Inactive";
+
+//DEFINE ALL PROJECT
+
+"sort_by_name_asc"              =       "Sort by Name ASC";
+"sort_by_name_desc"             =       "Sort by Name DESC";
+"sort_by_date_asc"              =       "Sort by Date ASC";
+"sort_by_date_desc"             =       "Sort by Date DESC";
+"sort_by_view_asc"              =       "Sort by View ASC";
+"sort_by_view_desc"             =       "Sort by View DESS";
+"sort_by_verified_first"        =       "Verified First";
+"sort_by_un_verified_first"     =       "UnVerified First";
+"sort_by_number_asc"            =       "Sort by Number Ads ASC";
+"sort_by_number_desc"           =       "Sort by Number Ads DESS";
+"sort_by_individual_first"      =       "Individual First";
+"sort_by_company_first"         =       "Company First";
+
+
+"table_top_refresh"             =       "Drag down to refresh";
+"table_bot_loadmore"            =       "Pull up to load more";
+
+//LoginVC
+"lg_title_login"               =       "Se Connecter";
+"lg_tf_username"               =        "User Name";
+"lg_tf_password"               =        "Password";
+"lg_btn_forgot"                =        "Forgot password";
+"lg_btn_login"                 =        "LOGIN";
+"lg_btn_register"              =        "REGISTER";
+"lg_btn_tearm"                 =        "Tearms & Conditions";
+"lg_btn_privacy_policy"        =        "Privacy policy";
+"lg_lbl_forgot_password"       =        "Forgot password";
+"lg_tf_email_forgot"           =        "Email";
+"lg_btn_ok_forgot"             =        "SEND";
+
+//Register VC
+"rg_title_register"             =       "Register";
+"rg_sm_personal"                =       "Individual";
+"rg_sm_company"                 =       "Company";
+"rg_tf_fullname"                =       "Full Name";
+"rg_tf_password"                =       "Password";
+"rg_tf_retype_password"         =       "Retype Password";
+"rg_tf_username"                =       "User Name";
+"rg_sm_male"                    =       "Male";
+"rg_sm_female"                  =       "Female";
+"rg_tf_description"             =       "Description";
+"rg_tf_email"                   =       "Email";
+"rg_tf_phone"                   =       "Phone";
+"rg_tf_address"                 =       "Adresse";
+"rg_rf_skype"                   =       "Skype";
+"rg_btn_register"               =       "REGISTER";
+"rg_lbl_upload_pictures"        =       "Upload Pictures Option";
+"rg_lbl_message_upload"         =       "How do you want to set your picture?";
+"rg_btn_gallery"                =       "GALLERY";
+"rg_btn_camera"                 =       "CAMERA";
+
+//reval vc
+"rv_lbl_login"                  =       "Login";
+"rv_menu_home"                  =       "Accueil";
+"rv_menu_category"              =       "Categories";
+"rv_menu_search"                =       "Rechercher";
+"rv_menu_news"                  =       "Les Infos";
+"rv_menu_sellers"               =       "Vendeurs";
+"rv_menu_recent_chat"           =       "Messages Recents";
+"rv_menu_contact_us"            =       "Contactez Nous";
+"rv_menu_about"                 =       "À propos";
+
+"rv_menu_my_account"            =       "My Account";
+"rv_menu_new_ad"                =       "New Ad";
+"rv_menu_my_ads"                =       "My Ads";
+"rv_menu_my_message"            =       "My Messages";
+"rv_menu_mysubcription"         =       "My Subscriptions";
+"rv_menu_favorite"              =       "Favorites";
+"rv_menu_change_password"       =       "Change Password";
+"rv_menu_logout"                =       "Log Out";
+"rv_title_logout"               =       "Logout App";
+"rv_msg_logout"                 =       "Do you want to logout?";
+
+//HomeVC
+"ho_title"                      =       "Accueil";
+"ho_btn_recent"                 =       "Récents";
+"ho_btn_popular"                =       "Populaires";
+"ho_btn_followed"               =       "Mes Vendeurs";
+"ho_btn_nearby"                 =       "A proximité";
+
+//Detail ADs VC
+"dt_title"                      =       "Détails";
+"dt_txt_seller_id"              =       "Seller ID";
+"dt_text_name"                  =       "name";
+"dt_text_ads"                   =       "Ads";
+"dt_btn_like"                   =       "Like";
+"dt_btn_likes"                  =       "J’aimes";
+"dt_btn_comment"                =       "Comment";
+"dt_btn_comments"               =       "Commentaires";
+"dt_btn_favorite"               =       "Favorite";
+"dt_btn_favorites"              =       "Favoris";
+"dt_lbl_type"                   =       "Type:";
+"dt_lbl_address"                =       "Address:";
+"dt_lbl_poster"                 =       "Publication:";
+"dt_lbl_detail"                 =       "Details";
+"dt_lbl_menber_joined"          =       "Member Joined Since";
+"dt_btn_ads"                    =       "Ads";
+"dt_btn_chat"                   =       "Chat";
+"dt_btn_report"                 =       "REPORT";
+
+//ChatVC
+"ch_title"                      =       "Message";
+//ImageVC
+"im_title"                      =       "Image";
+"im_btn_done"                   =       "Done";
+"im_btn_save"                   =       "SAVE";
+"im_msg_save_image"             =       "Saved image in Photos";
+//AllCategoryVC
+"ac_title"                      =       "Categories";
+"ac_text_all_ads"               =       "Tout Ads";
+//SubCategoryVC
+"sc_no_subcategories"           =       "No SubCategories";
+//resultvcf
+"rs_title"                      =       "Results";
+//searchVC
+"se_title"                      =       "Search";
+"se_lbl_all"                    =       "Tout";
+"se_lbl_distance"               =       "Distance";
+"se_btn_search"                 =       "Search";
+"se_btn_buy"                    =       "Acheter";
+"se_btn_rent"                   =       "Location";
+"se_tf_search"                  =       "Search";
+"se_lbl_type"                   =       "Touts types";
+"se_text_individual"            =       "Individual";
+"se_text_company"               =       "Company";
+"se_text_before"                =       "Before";
+"se_text_after"                 =       "After";
+"se_btn_set"                    =       "Set";
+"se_btn_cancel"                 =       "Cancel";
+//NEWVC
+"ne_lbl_title"                  =       "News";
+"ne_lbl_poster"                 =       "Publication:";
+"ne_tf_search"                  =       "Search";
+//SellerVC
+"sl_text_no_seller"             =       "No Seller";
+"sl_text_profile"               =       "Profile";
+"sl_btn_seller"                 =       "Seller";
+"sl_btn_follow"                 =       "Followed";
+"sl_tf_search"                  =       "Search";
+"sl_btn_chat"                   =       "CHAT";
+"sl_btn_follow_cell"            =       "FOLLOW";
+"sl_btn_followed_cell"          =       "FOLLOWED";
+"sl_lbl_menber_since"           =       "Member Since";
+//Contact Us vc
+"cu_text_report"                =       "Report";
+"cu_text_contact_us"            =       "Contact us";
+"cu_tf_fullname"                =       "Nom complet";
+"cu_tf_subject"                 =       "Sujet";
+"cu_tf_reason"                  =       "Raisons";
+"cu_tf_email"                   =       "Email";
+//ABOUTVC
+"ab_text_about2"                =       "Provide iOS, Web Source, and Development Services. \ n High Commitment to Excellent Product Quality and Service.";
+"ab_btn_share_app"              =       "Share Application";
+"ab_btn_rate_app"               =       "Rate App";
+
+//MyAccountVC
+"ma_btn_update"                 =       "UPDATE";
+//add NEW ADS VC
+"na_tf_title_ads"               =       "Title Ads";
+"na_tf_lat"                     =       "Latitude";
+"na_tf_long"                    =       "Longtitude";
+"na_btn_select_location"        =       "SELECT LOCATION FROM MAP";
+"na_btn_for_buy"                =       "FOR BUY";
+"na_btn_for_rent"               =       "FOR RENT";
+"na_lbl_free"                   =       "Free";
+"na_lbl_negotiale"              =       "Negotiale";
+"na_lbl_custom"                 =       "Custom";
+"na_tf_price"                   =       "Value";
+"na_tf_unit"                    =       "Unit";
+"na_lbl_available"              =       "Abailable";
+"na_tf_description"             =       "Description";
+"na_btn_save"                   =       "SAVE";
+"na_msg_fill_title_ads"         =       "Please fill title of ads!";
+"na_msg_fill_des"               =       "Please fill description!";
+"na_msg_select_gallery"         =       "Please select gallery!";
+"na_msg_select_image"           =       "Please select image!";
+"na_msg_select_category"        =       "Please select category";
+"na_msg_select_sub_category"    =       "Please select sub category";
+"na_msg_select_city"            =       "Please select city";
+"na_msg_fill_unit"              =       "Please fill value and unit";
+"na_msg_add_success"            =       "Add Ads success!";
+//EditADSVC
+"ea_msg_subcription_draft"      =       "You cannot subscription for draft property!";
+"ea_msg_add_success"            =       "Edit Ads success!";
+"ea_text_delete_ad"             =       "Delete ad";
+"ea_msg_delete_ad"              =       "Do you want to delete this ad?";
+"ea_btn_delete"                 =       "Delete";
+"ea_msg_delete_success"         =       "Delete ads successful";
+"ea_btn_update"                 =       "UPDATE";
+"ea_btn_subcription"            =       "SUBCRIPTION";
+"ae_btn_delete_upcap"           =       "DELETE";
+//SUBCIPTIONVC
+"ms_text_days"                  =       "Jour";
+//detailmessageVC
+"dm_lbl_title"                  =       "Message Détails";
+"dm_btn_call"                   =       "CALL";
+"dm_btn_email"                  =       "EMAIL";
+//changepassword vc
+"cp_msg_pass_notmatch"          =       "Password does not match. Please try again!";
+"cp_msg_fill_pass"              =       "Please enter a password!";
+"cp_msg_fill_new_pass"          =       "Please enter a new password!";
+"cp_msg_pass_fb"                =       "You can not change your password when you sign in with Facebook";
+"cp_btn_change_pass"            =       "CHANGE PASSWORD";
+"cp_tf_current_pass"            =       "Current Password";
+"cp_tf_new_pass"                =       "New Password";
+"cp_tf_confirm_pass"            =       "Confirm Password";
+
+
+
+
